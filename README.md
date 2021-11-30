@@ -1,4 +1,4 @@
-# cloud-gateway
+# cloud-gateway(API-GATEWAY)
 Api-gateway project .
 #Below is the payment-microservice link:
 https://github.com/ranjeet-sys1/Payment-Microservice.git
